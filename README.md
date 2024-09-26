@@ -1,5 +1,7 @@
 ## Bank Marketing Machine Learning Project
 
+![Bank Marketing Project](https://your-image-url.com)
+
 This project aims to predict whether a customer will subscribe to a term deposit based on a variety of customer features. Using the **Bank Marketing dataset**, which includes data from previous marketing campaigns, the goal is to build, compare, and evaluate multiple machine learning models to optimize predictive accuracy.
 
 ### Tools and Libraries:
