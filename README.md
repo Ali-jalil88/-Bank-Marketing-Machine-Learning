@@ -18,7 +18,7 @@ This project aims to predict whether a customer will subscribe to a term deposit
 5. **GaussianNB**: A probabilistic model based on Bayes' theorem.
 6. **K-Nearest Neighbors (KNN)**: A simple, instance-based learning method that classifies data points based on the majority class of their nearest neighbors.
 ### Links:
-- **[Project Notebook](<[your_project_notebook_link_here](https://www.kaggle.com/code/alialarkawazi/bn-marketing-ml#2.-K-Nearest-Neighbors-(KNN)))**
+- **[Project Notebook](<[[your_project_notebook_link_here](https://www.kaggle.com/code/alialarkawazi/bn-marketing-ml#2.-K-Nearest-Neighbors-(KNN))]())**
 - **[Dataset]([your_dataset_link_here](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset))**
 
 The project involves comparison and tuning of these models to select the most efficient classifier. Various metrics like accuracy, precision, recall, and AUC-ROC are used to evaluate model performance.
