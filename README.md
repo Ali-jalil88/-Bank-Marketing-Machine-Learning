@@ -1,5 +1,3 @@
-# Bank Marketing Machine Learning
-
 ## Bank Marketing Machine Learning Project
 
 This project aims to predict whether a customer will subscribe to a term deposit based on a variety of customer features. Using the **Bank Marketing dataset**, which includes data from previous marketing campaigns, the goal is to build, compare, and evaluate multiple machine learning models to optimize predictive accuracy.
@@ -16,6 +14,6 @@ This project aims to predict whether a customer will subscribe to a term deposit
 3. **RandomForestClassifier**: An ensemble model that improves accuracy through bagging and multiple decision trees.
 4. **XGBClassifier (XGBoost)**: A powerful gradient boosting algorithm optimized for accuracy and speed.
 5. **GaussianNB**: A probabilistic model based on Bayes' theorem.
+6. **K-Nearest Neighbors (KNN)**: A simple, instance-based learning method that classifies data points based on the majority class of their nearest neighbors.
 
 The project involves comparison and tuning of these models to select the most efficient classifier. Various metrics like accuracy, precision, recall, and AUC-ROC are used to evaluate model performance.
-
