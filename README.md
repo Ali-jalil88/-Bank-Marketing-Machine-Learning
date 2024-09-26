@@ -1,6 +1,6 @@
 ## Bank Marketing Machine Learning Project
 
-![Bank Marketing Project]([[https://your-image-url.com](https://github.com/Ali-jalil88/-Bank-Marketing-Machine-Learning/blob/main/DALL%C2%B7E%202024-09-26%2013.33.51%20-%20A%20modern%20data%20science%20and%20machine%20learning%20project%20setup%20showcasing%20various%20tools%20and%20techniques%20used%20in%20the%20Bank%20Marketing%20Machine%20Learning%20project.%20.webp))]
+![Bank Marketing Machine Learning Project](https://github.com/Ali-jalil88/-Bank-Marketing-Machine-Learning/blob/main/DALL%C2%B7E%202024-09-26%2013.33.51%20-%20A%20modern%20data%20science%20and%20machine%20learning%20project%20setup%20showcasing%20various%20tools%20and%20techniques%20used%20in%20the%20Bank%20Marketing%20Machine%20Learning%20project.%20.webp)
 
 This project aims to predict whether a customer will subscribe to a term deposit based on a variety of customer features. Using the **Bank Marketing dataset**, which includes data from previous marketing campaigns, the goal is to build, compare, and evaluate multiple machine learning models to optimize predictive accuracy.
 
